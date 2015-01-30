@@ -1,0 +1,19 @@
+HeaderInfo =  
+{
+	scenarioname = "Operation_Husky",
+	scenariodescription = "",
+	maxplayers = 8,
+	date = "3/2/2007 12:00 AM",
+	scenarioabbrname = "",
+	savedname = "",
+	version = 2002,
+	mapsize =  
+	{
+		768,
+		768,
+	},
+	music = "",
+	scenariotype = 2,
+	modname = "RelicCOH",
+}
+

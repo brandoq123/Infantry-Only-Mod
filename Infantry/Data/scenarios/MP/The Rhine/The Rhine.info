@@ -1,0 +1,19 @@
+HeaderInfo =  
+{
+	scenarioname = "The Rhine",
+	scenariodescription = "The Allies have survived the winter; now they look to make one large push into Germany. The Axis are on their last leg, they must keep the Allies from entering Germany or the door to Berlin will be open. -Created By: Cam51",
+	maxplayers = 8,
+	date = "6/13/2007 6:50 PM",
+	scenarioabbrname = "",
+	savedname = "",
+	version = 2002,
+	mapsize =  
+	{
+		768,
+		768,
+	},
+	music = "",
+	scenariotype = 2,
+	modname = "RelicCOH",
+}
+
